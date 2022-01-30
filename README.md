@@ -1,4 +1,4 @@
-# MagicMirror
+# My Smart Mirror
 My very first hardware related project. It's a mirror that displays text on its surface.
 
 ## Table of Contents
