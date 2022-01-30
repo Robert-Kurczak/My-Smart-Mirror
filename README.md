@@ -20,4 +20,4 @@ It displays:
 3. [Open Weather API](https://openweathermap.org/)
 4. [AirQuality](https://github.com/CFenner/MMM-AirQuality)
 
-## Due to the large amount of personal information I had to put in configuration files I be sharing them.
+#### Due to the large amount of personal information I had to put in configuration files I won't be sharing them.
